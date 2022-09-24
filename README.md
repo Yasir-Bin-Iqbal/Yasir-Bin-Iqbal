@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yasir-Bin-Iqbal
+- 👋 Hi, I’m Yasir-Bin-Iqbal
 - 👀 I’m interested in Mobile app development
 - 🌱 I’m currently learning Android app development using Java
 - 💞️ I’m looking to collaborate on any android app project
